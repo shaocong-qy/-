@@ -1,5 +1,6 @@
-# HFMRE: Constructing Huffman Tree in Bags to Find Excellent Instances for Distantly Supervised Relation Extraction
+# 基于信息抽取技术的密集型文本机器可读方法
 
+![image](https://github.com/user-attachments/assets/1277faee-703f-4d3e-bb40-c5e729c483b6)
 
 
 ### Reqirements
